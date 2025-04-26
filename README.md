@@ -3,10 +3,10 @@ Made by Aarav, Aarush, Adela, and Aryaman (The "A+" Team)
 
 
 Directions:
-1. Click on your starting point
+1. Click on your starting point;
 The starting point will be inputted as the nearest node to that specific point
 
-3. Click on your finishing point
+3. Click on your finishing point;
 The finishing point will be inputted as the nearest node to that specific point
 
 5. It will show you the shortest route from the start to the end
