@@ -5,7 +5,7 @@ import heapq
 windowwidth, windowheight = t.screensize()
 
 nodes = []
-t.bgpic("ridgemap.gif")
+t.bgpic("ridgemapfinal.gif")
 
 # Permanent nodes
 permanent_nodes = [
